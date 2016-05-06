@@ -1,0 +1,24 @@
+# Vagrant folder
+.vagrant/
+
+# Credentials file
+config.yaml
+
+# IDEs files Eclipse, PyCharm
+.buildpath
+.project
+.settings
+nbproject/
+.idea/
+.tm_properties
+(?i)\~
+*~
+
+# Database
+*.sqlite3
+
+# Operating Systems
+.DS_Store
+
+# Python compiled files
+*.pyc
